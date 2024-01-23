@@ -7,5 +7,5 @@
 int main() {
 	std::cout << "Hello World!\n";
 	std::cout << "My name is Dustin Needham!\n";
-	std::cout << "This is a GitHub upload practice!\n";
+	std::cout << "This is GitHub upload practice!\n";
 }
